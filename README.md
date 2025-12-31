@@ -36,10 +36,8 @@
 | 항목 | 사용 기술 / 개념 |
 | --- | --- |
 | 구현 언어 | Python |
-| 난수 생성 | import random
-random.random() |
-| 압축 방식 | import math
-math.log2() |
+| 난수 생성 | import random random.random() |
+| 압축 방식 | import math math.log2() |
 | 검증 | Encoder→Decoder round trip |
 
 ### 📐 아키텍처 특징
